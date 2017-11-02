@@ -1,6 +1,6 @@
 # MapReduce-AutoComplete
 
-how does google know what you are going to type next? this project explore this topic in a very simple bag of words method with mapreduce and mysql database is needed for storage.
+how does google know what you are going to type next? this project explore this topic in a very simple bag of words method with mapreduce and I used mysql for storage.
 
 ### Main Steps:
 
